@@ -1,0 +1,24 @@
+.products-grid {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+  }
+  
+  .each-product {
+    background-color: #f1f1f1;
+    padding: 10px;
+    flex: 30%;
+    margin: 10px;
+  }
+
+  /* Responsive layout - makes a one column-layout instead of two-column layout */
+@media (max-width: 800px) {
+    .products-grid {
+      flex-direction: column;
+    }
+  }
+
+  .single-product-wrapper{
+    padding: 80px;
+    
+  }

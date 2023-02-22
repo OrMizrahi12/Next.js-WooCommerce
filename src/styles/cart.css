@@ -1,0 +1,100 @@
+.btn-addToCart{
+    background-color: rgb(215, 215, 215);
+    padding: 5px;
+    border-radius: 10px;
+    float: left;
+    font-size: 18px;
+}
+
+.go-to-cart-style{
+    background-color: rgb(215, 215, 215);
+    padding: 5px;
+    border-radius: 10px;
+    font-size: 18px;
+    float: right; 
+}
+
+.product-cart-wraper{
+    margin-top: 20px;
+}
+
+.product-cart-container{
+    
+}
+
+.description-section-weraper{
+    margin-top: 20px;
+    margin-bottom: 20px;
+  
+}
+.product-description{
+    font-size: 15px;
+}
+
+.cart-product-name{
+  font-size: 20px;
+  font-weight: bold;    
+}
+
+.btn-remove-product-from-cart{
+ float: right;
+ background-color: brown;
+ height: 50px;
+ width: 50px;
+
+}
+
+.footer-product-block-weraper{
+}
+
+.increment-decrement-wraper{
+  float: left;
+  font-size: 20px;
+  
+}
+
+.increment-decrement-btn{
+    margin: 5px;
+}
+
+
+.total-price-per-product{
+    float: right;   
+    font-size: 20px;
+}
+
+.txt-input-count{
+    width: 50px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.Purchase-details-weraper{
+    margin: 20px; 
+    background-color: rgb(253, 253, 110);
+    padding: 30px;
+    border-radius: 10px;
+
+}
+
+.txt-Purchase-details-weraper{
+    text-align: center;
+}
+
+.btn-clear-Cart{
+    float: right;
+    background-color: rgb(248, 143, 143);
+    padding: 5px;
+    border-radius: 10px;    
+    
+}
+
+.btn-Proceed-to-Checkout{
+    background-color: rgb(0, 176, 64);
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.operation-Purchase-details-weraper{
+    justify-content:center;
+}
